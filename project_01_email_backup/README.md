@@ -11,4 +11,4 @@ Motivations:
 
 Topics: `IMAP`, `OAuth2`, `Microsoft Entra ID`, `Docker`
 
-!["email backup service design"]("./email_backup_design.png")
+!["email backup service design"](./email_backup_design.png)
